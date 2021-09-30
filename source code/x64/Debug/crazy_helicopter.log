@@ -1,0 +1,53 @@
+﻿  gsrc.cpp
+  main.cpp
+D:\CityU\courses\01EE5808 Topics in Computer Graphics\mini project\Zhang Yu Pei 56144242\crazy_helicopter\source code\main.cpp(754,12): warning C4101: “j”: 未引用的局部变量
+  正在生成代码...
+gsrc.obj : error LNK2019: 无法解析的外部符号 __imp_glGetFloatv，函数 "void __cdecl gsrc_mousemove(int,int)" (?gsrc_mousemove@@YAXHH@Z) 中引用了该符号
+gsrc.obj : error LNK2019: 无法解析的外部符号 __imp_glLoadIdentity，函数 "void __cdecl gsrc_mousemove(int,int)" (?gsrc_mousemove@@YAXHH@Z) 中引用了该符号
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glLoadIdentity
+gsrc.obj : error LNK2019: 无法解析的外部符号 __imp_glMultMatrixf，函数 "void __cdecl gsrc_mousemove(int,int)" (?gsrc_mousemove@@YAXHH@Z) 中引用了该符号
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glMultMatrixf
+gsrc.obj : error LNK2019: 无法解析的外部符号 __imp_glPopMatrix，函数 "void __cdecl gsrc_mousemove(int,int)" (?gsrc_mousemove@@YAXHH@Z) 中引用了该符号
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glPopMatrix
+gsrc.obj : error LNK2019: 无法解析的外部符号 __imp_glPushMatrix，函数 "void __cdecl gsrc_mousemove(int,int)" (?gsrc_mousemove@@YAXHH@Z) 中引用了该符号
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glPushMatrix
+gsrc.obj : error LNK2019: 无法解析的外部符号 __imp_glRotatef，函数 "void __cdecl gsrc_mousemove(int,int)" (?gsrc_mousemove@@YAXHH@Z) 中引用了该符号
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glRotatef
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glBegin，函数 "void __cdecl cube(void)" (?cube@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glBindTexture，函数 "void __cdecl draw_ground(void)" (?draw_ground@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glClear，函数 "void __cdecl my_helicopter(void)" (?my_helicopter@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glClearColor，函数 "void __cdecl my_helicopter(void)" (?my_helicopter@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glClearDepth，函数 "void __cdecl render_scene(void)" (?render_scene@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glColor3f，函数 "void __cdecl my_helicopter(void)" (?my_helicopter@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glColorMaterial，函数 "void __cdecl render_scene(void)" (?render_scene@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glDisable，函数 "void __cdecl draw_ground(void)" (?draw_ground@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glEnable，函数 "void __cdecl draw_ground(void)" (?draw_ground@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glEnd，函数 "void __cdecl cube(void)" (?cube@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glGenTextures，函数 "unsigned int __cdecl load_texture(char *)" (?load_texture@@YAIPEAD@Z) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glLightf，函数 "void __cdecl set_circlelight(void)" (?set_circlelight@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glLightfv，函数 "void __cdecl set_circlelight(void)" (?set_circlelight@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glMaterialf，函数 "void __cdecl set_sunlight(void)" (?set_sunlight@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glMaterialfv，函数 "void __cdecl render_scene(void)" (?render_scene@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glMatrixMode，函数 "void __cdecl render_scene(void)" (?render_scene@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glNormal3f，函数 "void __cdecl my_path(float,int)" (?my_path@@YAXMH@Z) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glPolygonMode，函数 "void __cdecl render_scene(void)" (?render_scene@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glScalef，函数 "void __cdecl my_helicopter(void)" (?my_helicopter@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glScissor，函数 "void __cdecl render_scene(void)" (?render_scene@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glShadeModel，函数 "void __cdecl render_scene(void)" (?render_scene@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glTexCoord2f，函数 "void __cdecl draw_ground(void)" (?draw_ground@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glTexEnvf，函数 "unsigned int __cdecl load_texture(char *)" (?load_texture@@YAIPEAD@Z) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glTexImage2D，函数 "unsigned int __cdecl load_texture(char *)" (?load_texture@@YAIPEAD@Z) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glTexParameteri，函数 "unsigned int __cdecl load_texture(char *)" (?load_texture@@YAIPEAD@Z) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glTranslatef，函数 "void __cdecl cylinder(void)" (?cylinder@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glVertex3f，函数 "void __cdecl cube(void)" (?cube@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glViewport，函数 "void __cdecl render_scene(void)" (?render_scene@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 gluOrtho2D，函数 "void __cdecl render_scene(void)" (?render_scene@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 gluPerspective，函数 "void __cdecl render_scene(void)" (?render_scene@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 gluLookAt，函数 "void __cdecl render_scene(void)" (?render_scene@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 gluNewQuadric，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 gluCylinder，函数 "void __cdecl cylinder(void)" (?cylinder@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 gluDisk，函数 "void __cdecl cone(void)" (?cone@@YAXXZ) 中引用了该符号
+glut32.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\lib\x64\opengl32.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\lib\x64\glu32.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\CityU\courses\01EE5808 Topics in Computer Graphics\mini project\Zhang Yu Pei 56144242\crazy_helicopter\source code\x64\Debug\crazy_helicopter.exe : fatal error LNK1120: 40 个无法解析的外部命令
