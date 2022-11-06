@@ -1,5 +1,6 @@
 # Computer-Graphics-project-helicopter
  crazy helicopter using C
+   
    function animation
    function shadow
    function zoom in and zoom out
